@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-21T07:03:22Z" name="Surefire suite" finished-at="2023-09-21T07:03:25Z" duration-ms="3663">
+    <groups>
+    </groups>
+    <test started-at="2023-09-21T07:03:22Z" name="Surefire test" finished-at="2023-09-21T07:03:25Z" duration-ms="3663">
+      <class name="riyaz.MySampleYamlTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:22Z" name="setUp" finished-at="2023-09-21T07:03:23Z" duration-ms="1657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEntity()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:23Z" name="testEntity" finished-at="2023-09-21T07:03:24Z" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:24Z" name="tearDown" finished-at="2023-09-21T07:03:24Z" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:24Z" name="setUp" finished-at="2023-09-21T07:03:24Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUsingTestFramework()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:24Z" name="testUsingTestFramework" finished-at="2023-09-21T07:03:25Z" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingTestFramework -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:riyaz.MySampleYamlTest@3b6ddd1d]" started-at="2023-09-21T07:03:25Z" name="tearDown" finished-at="2023-09-21T07:03:25Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- riyaz.MySampleYamlTest -->
+      <class name="riyaz.MySampleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:riyaz.MySampleTest@3f6b0be5]" started-at="2023-09-21T07:03:25Z" name="setUp" finished-at="2023-09-21T07:03:25Z" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEntity()[pri:0, instance:riyaz.MySampleTest@3f6b0be5]" started-at="2023-09-21T07:03:25Z" name="testEntity" finished-at="2023-09-21T07:03:25Z" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:riyaz.MySampleTest@3f6b0be5]" started-at="2023-09-21T07:03:25Z" name="tearDown" finished-at="2023-09-21T07:03:25Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- riyaz.MySampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
